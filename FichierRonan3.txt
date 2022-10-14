@@ -1,1 +1,7 @@
 Un autre fichier
+modification fichier 3
+conflit résolu
+
+Une autre ligne
+
+Hello, let's do this
